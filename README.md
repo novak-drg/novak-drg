@@ -59,16 +59,7 @@ const novak = {
 ### `$ git log --stat`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=novak-drg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=080a0c&title_color=4ade80&icon_color=38e0c0&text_color=d6dce4&ring_color=4ade80" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novak-drg&layout=compact&hide_border=true&langs_count=8&bg_color=080a0c&title_color=4ade80&text_color=d6dce4" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=novak-drg&hide_border=true&background=080a0c&stroke=1b2129&ring=4ade80&fire=38e0c0&currStreakNum=d6dce4&sideNums=d6dce4&currStreakLabel=4ade80&sideLabels=8b939e&dates=5b636e" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=novak-drg&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://streak-stats.demolab.com?user=novak-drg&hide_border=true&background=080a0c&stroke=1b2129&ring=4ade80&fire=38e0c0&currStreakNum=d6dce4&sideNums=d6dce4&currStreakLabel=4ade80&sideLabels=8b939e&dates=5b636e&cache=1" alt="streak" />
 </p>
 
 ---
